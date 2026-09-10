@@ -1,0 +1,7 @@
+interface:
+  display_name: "Knowledge Loop · Commit"
+  short_description: "Create commits from conversation context"
+  default_prompt: "Use $loop-commit to commit the current changes with relevant conversation context."
+
+policy:
+  allow_implicit_invocation: false

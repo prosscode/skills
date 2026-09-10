@@ -1,0 +1,4 @@
+interface:
+  display_name: "Map Module"
+  short_description: "Map verified modules and bootstrap legacy registries"
+  default_prompt: "Use $loop-map to document and verify a structural or cross-cutting module, including legacy registry bootstrap when needed."

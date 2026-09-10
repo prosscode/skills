@@ -1,0 +1,7 @@
+interface:
+  display_name: "Distill Module Decisions"
+  short_description: "Distill one or all modules from Git decisions"
+  default_prompt: "Use $loop-distill to consolidate one registered module or all modules into current decision snapshots from Git history."
+
+policy:
+  allow_implicit_invocation: false
