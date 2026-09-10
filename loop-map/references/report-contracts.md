@@ -138,8 +138,7 @@ Interpret verdicts strictly:
 ```markdown
 # <module-id> Map
 > Static understanding snapshot, not a decision history.
-> See `.codex/decisions/<module-id>.md` for the paired decision history (note when it does not yet
-> exist).
+> See `.codex/decisions/<module-id>.md` for the paired decision history (note when it does not yet exist).
 > Verified: YYYY-MM-DD (verification summary)
 
 ## Responsibilities

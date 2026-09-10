@@ -3,6 +3,7 @@
 > Static understanding snapshot, not a decision history.
 > See `.codex/decisions/knowledge-loop.md` for the paired decision history; it has not been distilled yet.
 > Verified: 2026-09-10 (12 cross-checked claims: 9 confirmed, 3 partial)
+> Maintained: 2026-09-10 (targeted verification: align loop-map and loop-distill UI labels with the shared Knowledge Loop naming convention)
 
 ## Responsibilities
 
@@ -57,7 +58,6 @@ The Knowledge Loop coordinates three repository-local skills around one stable m
 
 ## Confirmed bugs / technical debt
 
-- `loop-distill` and `loop-map` retain generic UI labels instead of the shared `Knowledge Loop · Distill` and `Knowledge Loop · Map` convention used by `loop-commit`.
 - `loop-map` forbids commit and push globally, but only its legacy-bootstrap path explicitly forbids staging; the general map workflow should state the same staging boundary.
 
 ## Open questions
